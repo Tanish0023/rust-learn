@@ -6,3 +6,4 @@ edition = "2024"
 [dependencies]
 chrono = "0.4.40"
 dotenv = "0.15.0"
+expand = "0.3.0"
